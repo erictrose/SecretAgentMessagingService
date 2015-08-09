@@ -8,5 +8,3 @@ LAMP stack webserver <br>
 CodeIgniter <br>
 MySQL relational database <br>
 jQuery AJAX to php to database and back! <br>
-
-http://dev.cool
