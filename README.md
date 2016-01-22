@@ -1,10 +1,13 @@
-SAMS (Secret Agent Messaging Service)
-==========
-A student project for Advanced Serverside Langages. <br>
+Secret Agent Messaging Service
+=============
+<!--[![experimental](http://badges.github.io/stability-badges/dist/experimental.svg)](http://github.com/badges/stability-badges) <br>-->
+[![unstable](http://badges.github.io/stability-badges/dist/unstable.svg)](http://github.com/badges/stability-badges) <br>
+<!--[![stable](http://badges.github.io/stability-badges/dist/stable.svg)](http://github.com/badges/stability-badges) <br>-->
+*web application* <br>
 
-SAMS is a website with a secret! To access the secret: up, up, down, down, left, right, left, right, b, a <br>
+Send messages through an innocuous looking site. <br>
 
-LAMP stack webserver <br>
-CodeIgniter <br>
-MySQL relational database <br>
-jQuery AJAX to php to database and back! <br>
+Technologies: <br>
+[LAMP stack](https://en.wikipedia.org/wiki/LAMP_(software_bundle)) <br>
+[PHP](https://en.wikipedia.org/wiki/PHP) - [Codeigniter](https://www.codeigniter.com/) <br>
+[MySQL](https://www.mysql.com/) <br>
