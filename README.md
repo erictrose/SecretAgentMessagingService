@@ -1,6 +1,6 @@
 Secret Agent Messaging Service
 =============
-[![unstable](http://badges.github.io/stability-badges/dist/unstable.svg)](http://github.com/badges/stability-badges) <br>
+[![stable](http://badges.github.io/stability-badges/dist/stable.svg)](http://github.com/badges/stability-badges) <br>
 [*web application*](http://sams.eric.hosting/) <br>
 
 ![Image of sams](http://imgur.com/Q6TDmK2.png) <br>
